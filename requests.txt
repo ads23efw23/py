@@ -1,0 +1,6 @@
+vk_api
+urllib.request
+json
+configparser
+requests
+colorama
